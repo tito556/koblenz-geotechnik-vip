@@ -1,0 +1,51 @@
+# Geotechnik — Koblenz
+
+> Geotechnical engineering services in Koblenz, Deutschland.
+
+## Services
+- [Anker](https://koblenz.geotechnik.vip/anker/)
+- [Atterberg Grenzen](https://koblenz.geotechnik.vip/atterberg-grenzen/)
+- [Aushub](https://koblenz.geotechnik.vip/aushub/)
+- [Aushub Monitoring](https://koblenz.geotechnik.vip/aushub-monitoring/)
+- [Bodenplatten](https://koblenz.geotechnik.vip/bodenplatten/)
+- [Bodenverbesserung](https://koblenz.geotechnik.vip/bodenverbesserung/)
+- [Boschungsstabilitat](https://koblenz.geotechnik.vip/boschungsstabilitat/)
+- [Cbr Strasse](https://koblenz.geotechnik.vip/cbr-strasse/)
+- [Cpt Versuch](https://koblenz.geotechnik.vip/cpt-versuch/)
+- [Erdbebenisolierung](https://koblenz.geotechnik.vip/erdbebenisolierung/)
+- [Flexibler Belag](https://koblenz.geotechnik.vip/flexibler-belag/)
+- [Fundamente](https://koblenz.geotechnik.vip/fundamente/)
+- [Grundungen](https://koblenz.geotechnik.vip/grundungen/)
+- [Hange](https://koblenz.geotechnik.vip/hange/)
+- [In Situ Durchlassigkeit](https://koblenz.geotechnik.vip/in-situ-durchlassigkeit/)
+- [Injektionen](https://koblenz.geotechnik.vip/injektionen/)
+- [Korngrossenanalyse](https://koblenz.geotechnik.vip/korngrossenanalyse/)
+- [Labor](https://koblenz.geotechnik.vip/labor/)
+- [Labor In Situ](https://koblenz.geotechnik.vip/labor-in-situ/)
+- [Masw](https://koblenz.geotechnik.vip/masw/)
+- [Pfahle](https://koblenz.geotechnik.vip/pfahle/)
+- [Proctor Versuche](https://koblenz.geotechnik.vip/proctor-versuche/)
+- [Ruttelverdichtung](https://koblenz.geotechnik.vip/ruttelverdichtung/)
+- [Sandkegel Dichte](https://koblenz.geotechnik.vip/sandkegel-dichte/)
+- [Schottersaulen](https://koblenz.geotechnik.vip/schottersaulen/)
+- [Schurfgruben](https://koblenz.geotechnik.vip/schurfgruben/)
+- [Seismik](https://koblenz.geotechnik.vip/seismik/)
+- [Seismische Mikrozonierung](https://koblenz.geotechnik.vip/seismische-mikrozonierung/)
+- [Seismische Refraktion](https://koblenz.geotechnik.vip/seismische-refraktion/)
+- [Spt Bohrung](https://koblenz.geotechnik.vip/spt-bohrung/)
+- [Starrer Belag](https://koblenz.geotechnik.vip/starrer-belag/)
+- [Strassenbau](https://koblenz.geotechnik.vip/strassenbau/)
+- [Stutzmauern](https://koblenz.geotechnik.vip/stutzmauern/)
+- [Tiefe Aushube](https://koblenz.geotechnik.vip/tiefe-aushube/)
+- [Triaxialversuch](https://koblenz.geotechnik.vip/triaxialversuch/)
+- [Untersuchung](https://koblenz.geotechnik.vip/untersuchung/)
+- [Verflussigung](https://koblenz.geotechnik.vip/verflussigung/)
+- [Weichbodentunnel](https://koblenz.geotechnik.vip/weichbodentunnel/)
+- [Widerstand](https://koblenz.geotechnik.vip/widerstand/)
+
+## Contact
+- Website: https://koblenz.geotechnik.vip/
+
+## About
+This site provides geotechnical engineering services in Koblenz, Deutschland.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
